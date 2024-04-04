@@ -30,10 +30,10 @@ Root
  ┣ figures
  ┣ notebooks
  ┃  ┣ survey_results.ipynb -> Notebook to visualize survey results
- ┃  ┣ survey_results.html -> Slides to present survey results
+ ┃  ┗ survey_results.html -> Slides to present survey results
  ┣ scripts
  ┣ ReadMe.md
- ┣ requirements.txt
+ ┗ requirements.txt
 ```
 
 ## 3. Usage
