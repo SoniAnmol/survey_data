@@ -7,7 +7,7 @@ This repository is created to extract the key insights from the survey responses
 
 The survey aims to gather information on the attributes of the Narrative Policy Framework (NPF), including the Hero, Villain, Victim, and Moral of the Story.
 
-The survey questionnaire ([Italian](../data/survey_questionnaire/cc-perspective-Italian_-_Pilot_1.docx) | [English](../data/survey_questionnaire/cc-perspective-Italian_-_Pilot_1_eng.docx)) is coded and distributed through Qualtrics platform.
+The survey questionnaire ([Italian](https://github.com/SoniAnmol/survey_data/raw/main/data/survey_questionnaire/cc-perspective-Italian_-_Pilot_1.docx) | [English](https://github.com/SoniAnmol/survey_data/raw/main/data/survey_questionnaire/cc-perspective-Italian_-_Pilot_1_eng.docx)) is coded and distributed through Qualtrics platform.
 
 This repository is part of Anmol Soni's PhD project. Further project details and relevant links will be added to this description soon.
 
